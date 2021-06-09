@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578692036 source:c:\users\ben145\desktop\nowy folder (2)\samochod\nowy folder\11\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
